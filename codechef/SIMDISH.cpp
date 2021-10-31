@@ -16,11 +16,10 @@ int main(){
                     break;
                 }
                 if(count>=2) break;
-                if(i==2 && count ==0) break;
+                if(i==3 && count ==0) break;
             }
         }
         if(count>=2) cout<<"similar"<<endl;
         else cout<<"dissimilar"<<endl;
-
     }
 }
