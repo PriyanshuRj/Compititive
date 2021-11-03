@@ -13,11 +13,9 @@ int main()
       cout<<num<<" ";
       if(num%2==0) num = pow(num,0.5);
       else num = pow(num,1.5);
-      
     }
     if(num ==1)cout<<num;
     cout<<endl;
   }
-  
   return 0;
 }
