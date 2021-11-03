@@ -10,6 +10,6 @@ int main()
     cin>>a>>b;
     if(b-a>=2)count++;
   }
-  cout<<count;
+  cout<<count<<endl;
   return 0;
 }
