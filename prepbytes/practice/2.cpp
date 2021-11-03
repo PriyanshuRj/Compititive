@@ -11,6 +11,5 @@ int main()
     if(b-a>=2)count++;
   }
   cout<<count;
-  
   return 0;
 }
