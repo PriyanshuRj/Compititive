@@ -9,6 +9,6 @@ int main(){
         if(x+a*k>y+b*k) cout<<"DIESEL"<<endl;
         else if(x+a*k<y+b*k) cout<<"PETROL"<<endl;
         else cout<<"SAME PRICE"<<endl;
-
     }
+    return 0;
 }
