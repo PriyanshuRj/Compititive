@@ -6,8 +6,8 @@ int main(){
     while(t--){
         int x,y,a,b,k;
         cin>>x>>y>>a>>b>>k;
-        if(x+a*k<y+b*k) cout<<"DIESEL"<<endl;
-        else if(x+a*k>y+b*k) cout<<"PETROL"<<endl;
+        if(x+a*k>y+b*k) cout<<"DIESEL"<<endl;
+        else if(x+a*k<y+b*k) cout<<"PETROL"<<endl;
         else cout<<"SAME PRICE"<<endl;
 
     }
