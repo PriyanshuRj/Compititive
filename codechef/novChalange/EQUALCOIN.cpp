@@ -7,8 +7,14 @@ int main(){
     while(t--){
         int x,y;
         cin>>x>>y;
-        if(x%2==0) cout<<"YES"<<endl;
-        else cout<<"NO"<<endl;
+        if(x%2==1) cout<<"NO"<<endl;
+        else {
+            if(y%2==0) cout<<"YES"<<endl;
+            else{
+                if(x>=2) cout<<"YES"<<endl;
+                else cout<<"NO"<<endl;
+            }
+        }
     }
     return 0;
 }
