@@ -35,10 +35,10 @@ int main(){
             }
         }
         if(seter == -1) cout<<-1<<endl;
+        else if(n>=2 && arr[n-1] == arr[n-2]) cout<<-1<<endl;
         else{
             sort(vct1.begin(),vct1.end());
             sort(vct2.begin(),vct2.end(), greater<int>());
-            
             for(auto i = vct1.begin(); i != vct1.end();i++){
                 cout<<*i<<" ";
             }
