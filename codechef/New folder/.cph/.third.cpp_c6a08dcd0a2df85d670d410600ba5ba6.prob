@@ -1,0 +1,1 @@
+{"name":"Local: third","url":"d:\\collage\\codes\\Compititive\\codechef\\lunchtime\\third.cpp","tests":[{"id":1640446694085,"input":"3\n4\n1 3 6 7\n3\n10 1 4\n6\n3 1 3 3 4 3","output":"0\n9\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\collage\\codes\\Compititive\\codechef\\lunchtime\\third.cpp","group":"local","local":true}

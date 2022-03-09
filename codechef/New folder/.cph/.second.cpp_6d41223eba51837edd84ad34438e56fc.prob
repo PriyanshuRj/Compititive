@@ -1,0 +1,1 @@
+{"name":"Local: second","url":"d:\\collage\\codes\\Compititive\\codechef\\lunchtime\\second.cpp","tests":[{"id":1640443566981,"input":"3\n7 3\nfaberty\n7 5\nbbaaaba\n4 4\nzxwy","output":"abferty\naababba\nwxyz"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\collage\\codes\\Compititive\\codechef\\lunchtime\\second.cpp","group":"local","local":true}
